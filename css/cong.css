@@ -1,0 +1,41 @@
+body{
+    background: black;
+}
+
+.cong{
+    position: center;
+    background: white;
+    color: black;
+    text-align: center;
+    margin-top: 280px;
+    margin-left: 100pt;
+    margin-right: 180pt;
+    text-decoration: double;
+    text-transform: capitalize;
+  }
+
+#btn{
+    background-color: black;
+    color: white;
+    padding: 5px 5px 5px 5px;
+    border-spacing: 5px 5px 5px 5px;
+    border: 2px solid black;
+    border-radius: 17px 17px 17px 17px;
+    margin-top: 20pt;
+    font-size: 15px;
+}
+
+#btn:hover{
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border: 2px solid white;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 20pt;
+}
+
+#email{
+    border: 1px solid black;
+    color:solid black;
+    padding : 2%;
+}
